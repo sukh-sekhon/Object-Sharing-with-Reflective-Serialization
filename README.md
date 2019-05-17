@@ -1,13 +1,13 @@
 # Object Sharing with Reflective Serialization/Deserialization [![forthebadge](https://forthebadge.com/images/badges/made-with-Java.svg)](https://forthebadge.com)
 
+## Dependencies
+__JDOM2__ is used for serializaing/deserializing objects and can be downloaded from [here](http://www.jdom.org/dist/binary/jdom-2.0.6.zip).
+
 ## Usage
 1. Clone the repo ```git clone https://github.com/sukhjot-sekhon/Object-Sharing-with-Reflective-Serialization.git```
 2. Compile all files ```javac *.java```
 3. Run the Controller class ```java Controller```
 4. Follow instructions displayed on the command line
-
-## Dependencies
-__JDOM2__ is used for serializaing/deserializing objects and can be downloaded from [here](http://www.jdom.org/dist/binary/jdom-2.0.6.zip).
 
 ## Features
 * __Sending Mode__
