@@ -1,4 +1,4 @@
-# Object Sharing with Reflective Serialization/Deserialization 
+# Object Sharing with Reflective Serialization
 [![forthebadge](https://forthebadge.com/images/badges/made-with-Java.svg)](Controller.java)
 
 ## Dependencies
