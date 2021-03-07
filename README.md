@@ -2,7 +2,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-Java.svg)](https://forthebadge.com)
 
 ## Dependencies
-__JDOM2__ is used for serializaing/deserializing objects and can be downloaded [here](http://www.jdom.org/dist/binary/jdom-2.0.6.zip).
+__JDOM2__ is used for serializaing/deserializing objects and can be downloaded [here](http://www.jdom.org/).
 
 ## Usage
 1. Clone the repo ```git clone https://github.com/sukhjot-sekhon/Object-Sharing-with-Reflective-Serialization.git```
