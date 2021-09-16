@@ -5,7 +5,7 @@
 __JDOM2__ is used for serializaing/deserializing objects and can be downloaded [here](http://www.jdom.org/downloads/index.html).
 
 ## Usage
-1. Clone the repo `git clone https://github.com/sukhjot-sekhon/Object-Sharing-with-Reflective-Serialization.git`
+1. Clone the repo `git clone https://github.com/sukh-sekhon/Object-Sharing-with-Reflective-Serialization.git`
 2. Compile all files `javac *.java`
 3. Run the Controller class `java Controller`
 4. Follow instructions displayed on the command line
